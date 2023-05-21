@@ -6,7 +6,7 @@ This is a Music Streaming Service API that allows two types of users: Regular  a
 
 ## Features
 
-- User Roles: Admin and Normal user roles with different permissions.
+- User Roles: Admin and Regular  user roles with different permissions.
 - CRUD Operations: Admin users can perform CRUD operations on songs. Normal users can manage their playlists.
 - Pagination: Optional pagination feature to fetch a limited number of songs from the user's playlist at a time.
 
