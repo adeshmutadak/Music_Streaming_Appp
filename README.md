@@ -1,6 +1,6 @@
 # Music_Streaming_Appp
 
-This project is a music streaming service API that allows users  and admin to manage songs and playlists. It provides CRUD operations for songs and user playlists, with separate permissions for normal and admin users. The API is implemented using Java  with the Spring Boot framework and includes Swagger documentation for easy exploration of the available endpoints.
+Simple Music Stremer App where we can user and admin can add song and delete song .This project is a music streaming service API that allows users  and admin to manage songs and playlists. It provides CRUD operations for songs and user playlists, with separate permissions for normal and admin users. The API is implemented using Java  with the Spring Boot framework and includes Swagger documentation for easy exploration of the available endpoints.
 
 This is a Music Streaming Service API that allows two types of users: Regular  and Admin. Admin users have full CRUD (Create, Read, Update, Delete) access to Songs, while Regular users can manage their playlists and add songs to them.
 
@@ -14,7 +14,7 @@ This is a Music Streaming Service API that allows two types of users: Regular  a
 
 - Java 
 - MySQL Database
-- Internet connectivity
+
 
 ## API Documentation
 The API documentation is generated using Swagger. You can explore the available endpoints using the Swagger UI interface.
